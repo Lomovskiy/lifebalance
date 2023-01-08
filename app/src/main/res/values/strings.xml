@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lifebalance</string>
+
+    <string name="screen_main_button_add_cup">Добавить стакан</string>
 </resources>
